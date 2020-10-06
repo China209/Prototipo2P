@@ -1,0 +1,16 @@
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\bin\Debug\EjecucionMVC.exe.config
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\bin\Debug\EjecucionMVC.exe
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\bin\Debug\EjecucionMVC.pdb
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\bin\Debug\CapaVista.dll
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\bin\Debug\CapaModelo.dll
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\bin\Debug\CapaControlador.dll
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\bin\Debug\CapaVista.pdb
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\bin\Debug\CapaModelo.pdb
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\bin\Debug\CapaControlador.pdb
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\obj\Debug\EjecucionMVC.csprojAssemblyReference.cache
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\obj\Debug\EjecucionMVC.Properties.Resources.resources
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\obj\Debug\EjecucionMVC.csproj.GenerateResource.cache
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\obj\Debug\EjecucionMVC.csproj.CoreCompileInputs.cache
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\obj\Debug\EjecucionMVC.csproj.CopyComplete
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\obj\Debug\EjecucionMVC.exe
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\SegundoParcialAS2\EjecucionMVC\EjecucionMVC\obj\Debug\EjecucionMVC.pdb
